@@ -29,6 +29,7 @@ Estudiante de 2º de ASIR especializado en triaje de infraestructuras, despliegu
 * 🖥️ **[Hypervisor-GPU-Passthrough](https://github.com/dmitry-zhbanov/Hypervisor-GPU-Passthrough):** Diseño de arquitectura Proxmox con disociación de almacenamiento (Tier 1 SSD / Tier 2 HDD) y asignación PCIe (IOMMU) de GPU NVIDIA RTX 3060 Ti para cargas de trabajo aceleradas (IA/Kali).
 * ⚙️ **[Bash-SecOps-Automation](https://github.com/dmitry-zhbanov/Bash-SecOps-Automation):** Automatización de tareas operativas, validación de inputs defensiva, Regex (PCRE) y auditoría de integridad inicial (`chkrootkit`).
 * 🕵️‍♂️ **[PADRÓN · Operación Fuga](https://github.com/dmitry-zhbanov/Leyendas_De_SQL):** Laboratorio gamificado en MariaDB/Docker enfocado en roles, privilegios (GRANT/REVOKE) y cumplimiento LOPDGDD. Validación automatizada en Python.
+* * 🖥️ **[Windows-Server-Secure-Provisioning](https://github.com/dmitry-zhbanov/Windows-Server-Secure-Provisioning):** Aprovisionamiento aislado (SDN/SNAT) con vTPM 2.0 y Secure Boot.
 
 ---
 
