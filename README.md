@@ -24,11 +24,11 @@ Estudiante de 2º de ASIR especializado en triaje de infraestructuras, despliegu
 ## 🛡️ Málaga Cybersecurity Labs (Portfolio Operativo)
 *Infraestructura propia de virtualización (Proxmox VE) y resolución documentada de incidentes (Playbooks).*
 
-* 🚨 **[Zero-Downtime-Incident-Response](enlace):** Resolución de un bloqueo de hipervisor por saturación I/O. Aplicación de LVM Hot Resize y bloqueo de puntos de montaje a nivel de kernel (`chattr +i`).
-* 🔐 **[Infra-Hardening-and-IAM](enlace):** Despliegue de red Zero Trust (Tailscale), rotación de puertos SSH (Ed25519) y ofuscación de credenciales en scripts mediante principio de mínimo privilegio (`chmod 600`).
-* 🖥️ **[Hypervisor-GPU-Passthrough](enlace):** Diseño de arquitectura Proxmox con disociación de almacenamiento (Tier 1 SSD / Tier 2 HDD) y asignación PCIe (IOMMU) de GPU NVIDIA RTX 3060 Ti para cargas de trabajo aceleradas (IA/Kali).
-* ⚙️ **[Bash-SecOps-Automation](enlace):** Automatización de tareas operativas, validación de inputs defensiva, Regex (PCRE) y auditoría de integridad inicial (`chkrootkit`).
-* 🕵️‍♂️ **[PADRÓN · Operación Fuga](enlace):** Laboratorio gamificado en MariaDB/Docker enfocado en roles, privilegios (GRANT/REVOKE) y cumplimiento LOPDGDD. Validación automatizada en Python.
+* 🚨 **[Zero-Downtime-Incident-Response](https://github.com/dmitry-zhbanov/Zero-Downtime-Incident-Response):** Resolución de un bloqueo de hipervisor por saturación I/O. Aplicación de LVM Hot Resize y bloqueo de puntos de montaje a nivel de kernel (`chattr +i`). Resolución de un bloqueo de hipervisor por saturación I/O. Aplicación de LVM Hot Resize y bloqueo de puntos de montaje a nivel de kernel (`chattr +i`).
+* 🔐 **[Infra-Hardening-and-IAM](https://github.com/dmitry-zhbanov/Infra-Hardening-IAM):** Despliegue de red Zero Trust (Tailscale), rotación de puertos SSH (Ed25519) y ofuscación de credenciales en scripts mediante principio de mínimo privilegio (`chmod 600`).
+* 🖥️ **[Hypervisor-GPU-Passthrough](https://github.com/dmitry-zhbanov/Hypervisor-GPU-Passthrough):** Diseño de arquitectura Proxmox con disociación de almacenamiento (Tier 1 SSD / Tier 2 HDD) y asignación PCIe (IOMMU) de GPU NVIDIA RTX 3060 Ti para cargas de trabajo aceleradas (IA/Kali).
+* ⚙️ **[Bash-SecOps-Automation](https://github.com/dmitry-zhbanov/Bash-SecOps-Automation):** Automatización de tareas operativas, validación de inputs defensiva, Regex (PCRE) y auditoría de integridad inicial (`chkrootkit`).
+* 🕵️‍♂️ **[PADRÓN · Operación Fuga](https://github.com/dmitry-zhbanov/Leyendas_De_SQL):** Laboratorio gamificado en MariaDB/Docker enfocado en roles, privilegios (GRANT/REVOKE) y cumplimiento LOPDGDD. Validación automatizada en Python.
 
 ---
 
